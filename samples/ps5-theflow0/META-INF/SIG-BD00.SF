@@ -1,0 +1,188 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: OfqwWk1gD3ECJeW34xA3LXZ20vU=
+Created-By: 1.8.0_382 (Private Build)
+BDJ-Signature-Version: 1.0
+
+Name: com/bdjb/exploit/sandbox/ExploitServiceProxyImpl.class
+SHA1-Digest: cNYrVR8h9Vd784ASbfJwT5gEGpc=
+
+Name: com/bdjb/Exploit.class
+SHA1-Digest: xMaXEgwQXMZ4iXe04Fo/lWbrEv8=
+
+Name: com/bdjb/api/Int8.class
+SHA1-Digest: L/BmDlL2GLuzFnDd/E809DFABFg=
+
+Name: com/bdjb/exploit/sandbox/IxcProxyImpl.java
+SHA1-Digest: xIYYvreBGBL+qVNzKNth1suewoc=
+
+Name: com/bdjb/api/Int64.java
+SHA1-Digest: nbIgdoFFigS6BVQPzYAluvxu94A=
+
+Name: jdk/internal/misc/Unsafe.java
+SHA1-Digest: HUM83yc+VvBrCs8FvVKBp8juing=
+
+Name: com/bdjb/exploit/sandbox/ExploitServiceProxyImpl.java
+SHA1-Digest: ke53/9d8l7El3gfLepV3fg+2yTc=
+
+Name: com/bdjb/ExploitXlet.class
+SHA1-Digest: /0Hzkm/Txk3k4BPRpvKizbd/jDI=
+
+Name: com/bdjb/exploit/sandbox/ExploitSandboxInterface.class
+SHA1-Digest: 9sFn9keRnSgv5rqKuc6WFrvDhJU=
+
+Name: com/bdjb/api/Int32.class
+SHA1-Digest: 6fEYfxwflaRVTG8I7h4VwX1+34k=
+
+Name: com/bdjb/jit/JitDefaultImpl.class
+SHA1-Digest: CJdA1saCDtn2mm4WJkKX6CjZRCE=
+
+Name: com/bdjb/api/AbstractInt.java
+SHA1-Digest: e0jpW6PzxLcrvR5hSmjQ6vpFkq8=
+
+Name: com/bdjb/api/API.java
+SHA1-Digest: nCY4QnPiZqAfUEMfZBXR0wzbHCs=
+
+Name: com/bdjb/api/Buffer.class
+SHA1-Digest: lpp8v2axjWvzEFrt6CVfQRiPGbo=
+
+Name: com/bdjb/exploit/sandbox/ServiceImpl.class
+SHA1-Digest: syymuaFp0HWaG2+DhyxnWfTUutQ=
+
+Name: com/bdjb/api/UnsafeInterface.java
+SHA1-Digest: t0XWQuPcWZNFuXBsdrZovenH2Bc=
+
+Name: com/bdjb/api/Text.class
+SHA1-Digest: 52ArRznvE4UuqiZSVxVX9yu7WN8=
+
+Name: com/bdjb/jit/AbstractJit.java
+SHA1-Digest: hCnNrCh47e7Jo6vf2kwNSCiN7ws=
+
+Name: com/bdjb/api/UnsafeInterface.class
+SHA1-Digest: Sq97JwZGwf9WLh1opl5Ny1vHnmg=
+
+Name: com/bdjb/api/UnsafeJdkImpl.java
+SHA1-Digest: 2a5fVj9DXxsZMNfJVHoYkrhU7bg=
+
+Name: com/bdjb/ExploitXlet.java
+SHA1-Digest: 2WpLhKMtSxgp/P2uqYr904EwhlA=
+
+Name: com/bdjb/exploit/sandbox/Payload.java
+SHA1-Digest: Pqw5qzX2zBic0z+7oF8RqhRq99w=
+
+Name: com/bdjb/exploit/sandbox/ExploitSandboxInterface.java
+SHA1-Digest: M2n8i/tdMpcj2ybR0tepg7Gwd0s=
+
+Name: com/bdjb/exploit/sandbox/ExploitDefaultImpl.java
+SHA1-Digest: bCypRxM7Q96QmV35ei2vwhoW1+Q=
+
+Name: com/bdjb/api/UnsafeSunImpl.class
+SHA1-Digest: Gw4FY/8kQ4ua7DEADqrxjsz+59A=
+
+Name: com/bdjb/exploit/kernel/ExploitKernelInterface.class
+SHA1-Digest: NNJ19QvQP5UFnEY0vI1m7YqFYfI=
+
+Name: com/bdjb/exploit/sandbox/ServiceInterface.java
+SHA1-Digest: 4C7alTdXpwELycyrZo4hZjgdy54=
+
+Name: com/bdjb/api/AbstractInt.class
+SHA1-Digest: oirDLqMRWqyO891Kknnz/gDZfGM=
+
+Name: com/bdjb/api/UnsafeSunImpl.java
+SHA1-Digest: 96/B0ZcnyS+SLRX6iHW6hDY9aNk=
+
+Name: com/bdjb/exploit/sandbox/ExploitUserPrefsImpl.class
+SHA1-Digest: 0uGzuhbA4GWqa8X+1Apq6BIiVI8=
+
+Name: com/bdjb/exploit/sandbox/Payload.class
+SHA1-Digest: o8xVDJs8knzNeb2SyuCfe50E4co=
+
+Name: com/bdjb/exploit/sandbox/PayloadClassLoaderSerializer.class
+SHA1-Digest: 2kf5iTvefqbkGYYXrw9XAQ8gec8=
+
+Name: com/bdjb/api/Int64.class
+SHA1-Digest: Wzbg3K/zONesiAzW2ky8zbIFJs8=
+
+Name: com/bdjb/exploit/kernel/ExploitKernelInterface.java
+SHA1-Digest: wH9gd/Qjr6UVO/m8klmg+FWhQFM=
+
+Name: com/bdjb/exploit/sandbox/IxcProxyImpl.class
+SHA1-Digest: eIf6Hdrw/1RfMV0tnbv3JQPWU8s=
+
+Name: com/bdjb/api/Buffer.java
+SHA1-Digest: KjJd74ppSaaMaSM6j+o/38ox0og=
+
+Name: com/bdjb/exploit/sandbox/ServiceImpl.java
+SHA1-Digest: JI1WV0dbRtSMNCBIWBGo5qlFtS8=
+
+Name: com/bdjb/jit/JitCompilerReceiverImpl.java
+SHA1-Digest: TLClMCYjW/+IDNWBOZrRmASU2E4=
+
+Name: jdk/internal/misc/Unsafe.class
+SHA1-Digest: PBqo6lzEYHx1hvUMEUKFDKxtbVc=
+
+Name: com/bdjb/jit/JitDefaultImpl.java
+SHA1-Digest: 1Y68USQDbg3Mgkz+r9nWpPaKF1M=
+
+Name: com/bdjb/bluray.ExploitXlet.perm
+SHA1-Digest: B2NccTikqNBgNyJwdZNlZR+6W6o=
+
+Name: com/bdjb/exploit/sandbox/ExploitUserPrefsImpl.java
+SHA1-Digest: zpk3r9eU0qLUYww7aDcI9Mqizx0=
+
+Name: com/bdjb/exploit/sandbox/ExploitDefaultImpl.class
+SHA1-Digest: pBNQ2nNSqpKtewleqGv6bkNFZ+I=
+
+Name: com/bdjb/Screen.class
+SHA1-Digest: hj6NibNZw4H4p2bwiY6ksW9WkmM=
+
+Name: com/bdjb/Exploit.java
+SHA1-Digest: IumVNfpHcBrwDT+A/Sqtn0XuuiI=
+
+Name: com/bdjb/exploit/sandbox/PayloadClassLoader.class
+SHA1-Digest: fgOq0lfd4VilMO2dp92uQX5qK9E=
+
+Name: com/bdjb/exploit/sandbox/ServiceInterface.class
+SHA1-Digest: 4j74C405D3t0xuVVIRxBbBYQk/I=
+
+Name: com/bdjb/exploit/sandbox/PayloadClassLoader.java
+SHA1-Digest: 51ba//j9BcUaqyqi0BGPiWyquWI=
+
+Name: com/bdjb/api/Int16.java
+SHA1-Digest: Z5ZZ/3slfzqGT0tqvFVHfhwzeUg=
+
+Name: com/bdjb/api/UnsafeJdkImpl.class
+SHA1-Digest: JElIObVdfH+CLQLT43tJyqIa/nU=
+
+Name: com/bdjb/Screen.java
+SHA1-Digest: vjMR6u05X+369mJ3ANPL+WYtgqE=
+
+Name: com/bdjb/api/API.class
+SHA1-Digest: scDgQ9+p9hWn9TtpIE/E8ZCnon4=
+
+Name: com/bdjb/exploit/sandbox/ProviderAccessorImpl.java
+SHA1-Digest: pp/H9rvOLdCLxI3K/evRyYlIoXI=
+
+Name: com/bdjb/api/Int32.java
+SHA1-Digest: QE5cy/ChrLXIRYZzQ/ZT9KzjW1M=
+
+Name: com/bdjb/exploit/sandbox/PayloadClassLoaderSerializer.java
+SHA1-Digest: pIAfJ5gH4raqlTn5o+ORVfZTYck=
+
+Name: com/bdjb/api/Int16.class
+SHA1-Digest: WmGymZHsJrYwyIvoDOM5muZZ5ZA=
+
+Name: com/bdjb/api/Text.java
+SHA1-Digest: oTjZ8uXajVcztwqgSD+oQXHDCuo=
+
+Name: com/bdjb/api/Int8.java
+SHA1-Digest: UErLyqW3RJDyJP9BMzcoqr+GRSM=
+
+Name: com/bdjb/exploit/sandbox/ProviderAccessorImpl.class
+SHA1-Digest: iAeNfgIvniHoTdBRvmpzU0L8jZY=
+
+Name: com/bdjb/jit/AbstractJit.class
+SHA1-Digest: Q+DNEeSEKig0CofRi6539AiCdms=
+
+Name: com/bdjb/jit/JitCompilerReceiverImpl.class
+SHA1-Digest: w9lXacUpsHJTauZCyxlSwbGZYiY=
+
