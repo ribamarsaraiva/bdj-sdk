@@ -26,8 +26,8 @@ BDSIGNER     := $(BDJSDK_HOME)/host/bin/bdsigner
 MAKEFS       := $(BDJSDK_HOME)/host/bin/makefs
 JAVA8_HOME   ?= $(BDJSDK_HOME)/host/jdk8
 JAVA11_HOME  ?= $(BDJSDK_HOME)/host/jdk11
-JAVAC        := $(JAVA8_HOME)/bin/javac
-JAR          := $(JAVA8_HOME)/bin/jar
+JAVAC        := $(JAVA11_HOME)/bin/javac
+JAR          := $(JAVA11_HOME)/bin/jar
 
 export JAVA8_HOME
 
