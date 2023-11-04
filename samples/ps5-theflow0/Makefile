@@ -45,7 +45,7 @@ SOURCES = \
 	$(wildcard src/com/bdjb/exploit/kernel/*.java) \
 	$(wildcard src/jdk/internal/misc/Unsafe.java) \
 
-JFLAGS        := -Xlint:-options -source 1.4 -target 1.4
+JFLAGS        := -Xlint:-options
 
 
 #
